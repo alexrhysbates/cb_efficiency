@@ -1,1 +1,3 @@
-statsbombpys
+numpy
+pandas
+statsbombpy
