@@ -42,6 +42,12 @@ FAWSL season data
 
 Uses sample of data
 
+## The code
+
+Data processing using python, to make use of the lovely statsbombpy package
+
+Modelling in Julia language to make use of the brilliant ReactiveMP package from BiasLab. Newcomer to Julia so code probably not the cleanest!
+
 ## This repository
 
 data contains
